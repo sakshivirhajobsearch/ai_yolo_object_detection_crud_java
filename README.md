@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Java, Python, YOLO
+- **Detected Technologies:** Python, Java (Maven/Gradle), PyTorch, OpenCV, MySQL
 - **GitHub Topics:** None
 
 ---
